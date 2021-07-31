@@ -8,7 +8,7 @@ function Hero(props) {
           <div className="heroText">
             <h1 style={{fontSize:"48px"}} className="htext">We build bespoke
         web applications
-        for our clients.</h1>
+        for our clients.fgf</h1>
         <button style={{margin:"10px"}} className="hiring"> We are Hiring! Join us </button>
         </div> 
         <div className="heroimg">
