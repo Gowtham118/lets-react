@@ -1,0 +1,29 @@
+.hero{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80vh;
+}
+/* .wrapper{
+    display: flex;
+    width: 90vw;
+    min-width: 90vw;
+    align-items: center;
+    justify-content:space-between;
+} */
+.herotext{
+    display: flex;
+    justify-content: space-around;
+}
+.heroimg{
+    /* display: flex;
+    justify-content: space-around;
+    align-items: center; */
+    object-fit:contain;
+}
+img{
+    width: 300px;
+}
+.htext{
+    font-size:48px;
+}

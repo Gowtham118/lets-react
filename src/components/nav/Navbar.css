@@ -1,0 +1,27 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     width: 100vw;
+    }
+.wrapper{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content:space-between;
+    padding: 25px  50px;
+}
+button{
+    font-weight: bold;
+    width: 158px;
+    height: 285.px;
+    background-color: #FF8124;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: sans-serif;
+    margin:0px 25.39px ;
+    padding: 16px 0;
+    outline: none;
+    border:none;
+    border-radius: 10px;
+}
