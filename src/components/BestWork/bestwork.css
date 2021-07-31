@@ -1,0 +1,32 @@
+.bestwork {
+  display: flex;
+  justify-content: space-between;
+  height: 800px;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
+.vertical-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 700px;
+  margin-left: 20px;
+}
+.flag-section {
+  display: flex;
+  flex-direction: row;
+  width: 550px;
+  flex-wrap: wrap;
+  align-self: center;
+  gap: 20px;
+}
+.bestworktext {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 20px;
+}

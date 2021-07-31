@@ -5,10 +5,7 @@ function Flags(props) {
     return (
         <div className="flag">
             <div className="flag-icon">
-                <img src={imageUrl}/>
-            </div>
-            <div className="flag-name">
-                {}
+                <img src={props.imageUrl}/>
             </div>
         </div>
     );
