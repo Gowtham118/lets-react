@@ -24,4 +24,5 @@ button{
     outline: none;
     border:none;
     border-radius: 10px;
+    cursor: pointer;
 }
