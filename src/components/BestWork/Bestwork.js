@@ -1,6 +1,6 @@
 import "./bestwork.css";
 import Flags from "../flags/Flags";
-import React from "react";
+import Appstore from "../appstores/Appstore";
 
 function Bestwork(props) {
   return (
@@ -42,9 +42,12 @@ function Bestwork(props) {
               <Flags imageUrl="https://uploads-ssl.webflow.com/60dc474f42c389312418e410/60e1905e43b07dae53375767_Frame%2019517-5.png" />
             </div>
             <div className="bestworkfoot">
-              The Nesto footprint is soon expected to expland into other markets
-              in Asia.
+              <p>
+                The Nesto footprint is soon expected to expland into other
+                markets in Asia.
+              </p>
             </div>
+            <Appstore />
           </div>
         </div>
       </div>

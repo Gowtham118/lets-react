@@ -1,0 +1,24 @@
+.MeetOurTeam {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  background-color: #232226;
+  height: 2000px;
+}
+.mottext {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  width: 530px;
+  height: 120px;
+}
+.cardContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 826px;
+  gap: 25px;
+}
